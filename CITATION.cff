@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Salazar"
+  given-names: "Diego"
+  orcid: "https://orcid.org/0000-0001-6013-0008"
+title: "MachineLearning-DataFusion"
+version: 1.0.0
+doi: 10.5281/zenodo.6532372
+date-released: 2022-05-09
+url: "https://github.com/dasalazarb/MachineLearning-DataFusion"
